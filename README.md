@@ -1,7 +1,35 @@
-﻿# Moje laboratorium Python 2 - Pawel
+﻿# Moje laboratorium Python II
+# Paweł Winnik
+
 ## O mnie
-Studiuję Analitykę danych w biznesie (Semestr 2).
-## Postępy
-- [x] Konfiguracja Git i GitHub
-- [x] Środowisko wirtualne uv
-- [x] Pierwszy skrypt NumPy
+Studiuję Analitykę danych w biznesie na Politechnice Opolskiej,
+semestr 2.
+
+## Zainteresowania
+- [podróże]
+- [piłka_nożna]
+- [siłownia]
+
+## Umiejętności techniczne
+| Narzędzie | Poziom |
+|-----------|--------|
+| Python | początkujący / średni |
+| Excel | średni |
+| SQL | średni |
+
+## Czego chcę się nauczyć
+1. [programowania w Pythonie]
+2. [umiejętności programistycznych]
+3. [wszystkiego]
+
+## Kontakt
+- GitHub: [pawwinn](https://github.com/pawwinn)
+- Email: winnikpawel186@gmail.com
+
+## Mój workflow
+```mermaid
+graph TD
+A[Pomysł] --> B[Kod w Pythonie]
+B --> C[Analiza danych]
+C --> D[Wizualizacja]
+D --> E[Raport]
